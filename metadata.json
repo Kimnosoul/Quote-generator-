@@ -1,0 +1,5 @@
+{
+  "name": "Quote generator",
+  "description": "An emotional visual content generator that creates personalized quote images in Anime, Wisdom, and Aesthetic styles using a dual-choice preference learning system.",
+  "requestFramePermissions": []
+}
